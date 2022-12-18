@@ -1,0 +1,201 @@
+rating,started_at,read_at,date_added,book.title,book.average_rating,book.ratings_count,book.publication_year,book.authors.author.name
+4,,,Fri Dec 02 23:48:14 -0800 2022,"Eternal Kiss of Darkness (Night Huntress World, #2)",4.21,42753,2010,Jeaniene Frost
+4,,,Mon Nov 21 10:28:44 -0800 2022,"First Drop of Crimson (Night Huntress World, #1)",4.14,56127,2010,Jeaniene Frost
+4,Thu Oct 13 04:10:15 -0700 2022,Sat Oct 29 08:51:40 -0700 2022,Thu Oct 13 04:10:15 -0700 2022,"Destined for an Early Grave (Night Huntress, #4)",4.32,83096,2009,Jeaniene Frost
+4,,,Thu Oct 13 04:08:06 -0700 2022,"At Grave's End (Night Huntress, #3)",4.29,87382,2008,Jeaniene Frost
+4,,,Thu Oct 13 04:06:55 -0700 2022,"THINK STRAIGHT: Change Your Thoughts, Change Your Life",3.92,12019,,Darius Foroux
+4,,,Wed Sep 07 14:18:30 -0700 2022,"One Foot in the Grave (Night Huntress, #2)",4.29,101595,2008,Jeaniene Frost
+5,,,Sun Aug 28 12:35:10 -0700 2022,"Halfway to the Grave (Night Huntress, #1)",4.14,151929,2007,Jeaniene Frost
+4,Tue Jul 19 14:04:47 -0700 2022,Tue Aug 02 08:54:15 -0700 2022,Tue Jul 12 12:15:39 -0700 2022,"The Poppy War (The Poppy War, #1)",4.15,146469,2018,R.F. Kuang
+3,Sun Jun 26 09:56:24 -0700 2022,Tue Jul 12 12:11:00 -0700 2022,Sun Jun 26 09:56:24 -0700 2022,People We Meet on Vacation,3.95,707110,2021,Emily Henry
+3,Wed Mar 23 00:00:00 -0700 2022,Thu Mar 24 00:00:00 -0700 2022,Wed Mar 23 21:56:32 -0700 2022,Good Intentions,3.45,1165,2022,Kasim Ali
+5,Sat Mar 19 00:00:00 -0700 2022,Mon Mar 21 13:12:00 -0700 2022,Sat Mar 19 07:18:42 -0700 2022,The One,4.12,111589,2018,John Marrs
+3,Mon Mar 28 00:35:23 -0700 2022,Fri Apr 08 12:12:46 -0700 2022,Wed Mar 16 07:14:39 -0700 2022,Nine Lives,3.57,22804,2022,Peter  Swanson
+4,Wed Feb 09 00:00:00 -0800 2022,Mon Mar 07 10:50:51 -0800 2022,Wed Feb 09 11:20:31 -0800 2022,Out of Office: The Big Problem and Bigger Promise of Working from Home,3.78,2054,2021,Charlie Warzel
+5,Mon Dec 13 06:32:37 -0800 2021,Sun Dec 26 09:51:35 -0800 2021,Mon Dec 13 06:32:36 -0800 2021,"Supernova (Renegades, #3)",4.41,55836,2019,Marissa Meyer
+4,Fri Nov 19 00:00:00 -0800 2021,Sun Apr 17 00:00:00 -0700 2022,Fri Nov 19 12:20:47 -0800 2021,The Way of the Sufi,4.13,721,1991,Idries Shah
+4,Fri Nov 19 12:17:33 -0800 2021,Mon Dec 13 06:32:13 -0800 2021,Wed Nov 10 15:38:57 -0800 2021,"Archenemies (Renegades, #2)",4.28,67702,2018,Marissa Meyer
+4,Sat Nov 06 13:37:52 -0700 2021,Wed Feb 09 11:18:23 -0800 2022,Sat Nov 06 13:37:51 -0700 2021,Never Split the Difference: Negotiating As If Your Life Depended On It,4.37,119194,2016,Chris Voss
+4,,Tue Oct 26 00:00:00 -0700 2021,Tue Oct 26 08:07:26 -0700 2021,The Enchiridion & Discourses of Epictetus,4.23,942,,Epictetus
+5,Sat Oct 09 10:15:03 -0700 2021,Sat Oct 23 10:39:54 -0700 2021,Sat Oct 09 10:15:02 -0700 2021,Dry,4.03,36939,2018,Neal Shusterman
+4,Thu Feb 24 00:00:00 -0800 2022,Sun Feb 27 10:37:43 -0800 2022,Mon Jul 19 12:57:27 -0700 2021,Hostage,3.94,31090,2021,Clare Mackintosh
+5,Sun Apr 17 23:25:32 -0700 2022,Wed Apr 27 04:57:03 -0700 2022,Thu Jun 17 13:16:21 -0700 2021,Project Hail Mary,4.52,355664,2021,Andy Weir
+4,Tue Jun 01 11:53:34 -0700 2021,Thu Jul 29 08:18:13 -0700 2021,Tue Jun 01 11:53:33 -0700 2021,Can't Hurt Me: Master Your Mind and Defy the Odds,4.36,146413,,David Goggins
+4,Wed May 19 00:00:00 -0700 2021,Wed May 19 05:07:07 -0700 2021,Thu May 13 14:55:04 -0700 2021,"The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War",4.03,36135,2021,Malcolm Gladwell
+3,Mon Apr 19 00:00:00 -0700 2021,Wed Apr 21 08:36:34 -0700 2021,Mon Apr 19 15:34:22 -0700 2021,Every Vow You Break,3.49,33995,2021,Peter  Swanson
+3,,,Sun Apr 18 03:55:19 -0700 2021,And Every Morning the Way Home Gets Longer and Longer,4.32,67019,,Fredrik Backman
+4,Tue Apr 13 00:00:00 -0700 2021,Tue May 11 02:41:44 -0700 2021,Tue Apr 13 09:10:27 -0700 2021,Britt-Marie Was Here,4.08,135329,2016,Fredrik Backman
+4,,,Sat Apr 10 15:30:47 -0700 2021,Daisy Jones & The Six,4.24,791404,2019,Taylor Jenkins Reid
+4,Fri Mar 26 00:00:00 -0700 2021,Wed Apr 07 00:00:00 -0700 2021,Fri Mar 26 02:12:35 -0700 2021,The Midnight Library,4.03,1187967,2020,Matt Haig
+4,,,Wed Mar 17 08:24:33 -0700 2021,All the Light We Cannot See,4.32,1372689,2014,Anthony Doerr
+3,,,Mon Mar 08 06:40:37 -0800 2021,"Beartown (Beartown, #1)",4.28,320650,2017,Fredrik Backman
+3,Mon Aug 02 00:00:00 -0700 2021,Sat Nov 06 09:38:02 -0700 2021,Mon Mar 08 02:21:54 -0800 2021,The Whisper Man,4.04,131045,2019,Alex North
+4,Thu Mar 04 00:00:00 -0800 2021,Thu Mar 04 08:01:48 -0800 2021,Thu Mar 04 04:31:21 -0800 2021,Later,4.00,103422,2021,Stephen King
+4,Fri Feb 12 01:28:13 -0800 2021,Tue Mar 23 01:28:34 -0700 2021,Fri Feb 12 01:28:13 -0800 2021,Chase Darkness with Me: How One True-Crime Writer Started Solving Murders,4.12,14453,2019,Billy Jensen
+5,Sat Jan 01 04:31:11 -0800 2022,Fri Jan 07 14:16:57 -0800 2022,Fri Feb 12 01:24:44 -0800 2021,"Stillhouse Lake (Stillhouse Lake, #1)",4.12,133818,,Rachel Caine
+4,Thu Jul 08 00:00:00 -0700 2021,Mon Sep 20 04:02:50 -0700 2021,Fri Feb 12 01:23:18 -0800 2021,"Renegades (Renegades, #1)",4.15,116267,2017,Marissa Meyer
+3,Fri Feb 12 00:00:00 -0800 2021,Fri Feb 12 01:11:47 -0800 2021,Fri Feb 12 01:02:30 -0800 2021,"The First Samurai: The Life and Legend of the Warrior Rebel, Taira Masakado",3.49,76,2007,Karl F. Friday
+3,Fri Feb 12 00:00:00 -0800 2021,Fri Feb 12 01:08:48 -0800 2021,Fri Feb 12 01:00:46 -0800 2021,Artemis,3.69,230896,2017,Andy Weir
+4,Mon Jan 18 23:23:56 -0800 2021,Sun Feb 07 11:30:15 -0800 2021,Mon Jan 18 23:23:56 -0800 2021,American Dirt,4.37,470867,2020,Jeanine Cummins
+4,,,Fri Jan 08 01:39:04 -0800 2021,Eleanor & Park,3.97,1076902,2013,Rainbow Rowell
+5,Fri Jan 01 00:00:00 -0800 2021,Tue Jan 05 02:05:52 -0800 2021,Wed Dec 30 02:28:07 -0800 2020,Anxious People,4.19,488994,2020,Fredrik Backman
+2,Mon Dec 07 00:00:00 -0800 2020,Tue Dec 08 00:11:56 -0800 2020,Mon Dec 07 11:24:25 -0800 2020,Luster,3.56,81907,,Raven Leilani
+4,Thu Nov 26 00:00:00 -0800 2020,Thu Nov 26 11:52:32 -0800 2020,Thu Nov 26 00:00:27 -0800 2020,Three Women Disappear,3.62,8160,2020,James Patterson
+4,,,Sun Nov 22 11:06:11 -0800 2020,"Don't Overthink It: Make Easier Decisions, Stop Second-Guessing, and Bring More Joy to Your Life",3.90,13330,2020,Anne Bogel
+4,Tue Nov 03 00:00:00 -0800 2020,Sun Nov 08 02:44:28 -0800 2020,Tue Nov 03 22:49:16 -0800 2020,Greenlights,4.21,217559,2020,Matthew McConaughey
+4,Sun Oct 11 00:00:00 -0700 2020,Sat Oct 24 02:27:09 -0700 2020,Sun Oct 11 15:02:41 -0700 2020,"The Toll (Arc of a Scythe, #3)",4.21,90696,2019,Neal Shusterman
+4,Sun Oct 11 00:00:00 -0700 2020,Mon Oct 19 01:00:05 -0700 2020,Sun Oct 11 01:01:28 -0700 2020,The Sandman: Act I,4.39,19582,2020,Dirk Maggs
+5,Tue Apr 13 09:16:48 -0700 2021,Wed Sep 21 22:41:14 -0700 2022,Fri Oct 09 12:03:46 -0700 2020,Home Fire,4.04,59846,2017,Kamila Shamsie
+3,Thu Sep 17 00:00:00 -0700 2020,Tue Dec 01 05:53:26 -0800 2020,Thu Sep 17 07:21:47 -0700 2020,The Glass Hotel,3.69,139444,2020,Emily St. John Mandel
+5,Thu Sep 17 00:00:00 -0700 2020,Fri Jun 04 00:00:00 -0700 2021,Thu Sep 17 07:20:46 -0700 2020,The Essential Rumi,4.39,44788,2004,Rumi
+4,Thu Oct 17 00:00:00 -0700 2019,Fri Nov 13 07:07:25 -0800 2020,Thu Sep 17 07:19:17 -0700 2020,Before She Knew Him,3.86,49652,2019,Peter  Swanson
+4,Thu Sep 17 00:00:00 -0700 2020,Wed Oct 28 10:10:03 -0700 2020,Thu Sep 17 07:16:54 -0700 2020,Eleanor Oliphant Is Completely Fine,4.25,1047554,2017,Gail Honeyman
+4,Thu Sep 17 00:00:00 -0700 2020,Wed Jan 06 00:35:09 -0800 2021,Thu Sep 17 07:14:50 -0700 2020,Cosmos: Possible Worlds,4.40,994,2020,Ann Druyan
+4,Thu Sep 17 07:09:27 -0700 2020,Sun Oct 11 00:53:44 -0700 2020,Thu Sep 17 07:09:26 -0700 2020,Holotropic Breathwork: A New Approach to Self-Exploration and Therapy,3.90,398,2010,Stanislav Grof
+2,Sat Sep 05 02:10:10 -0700 2020,Thu Sep 17 07:07:43 -0700 2020,Sat Sep 05 02:10:10 -0700 2020,Songs for the End of the World,3.85,1850,2020,Saleema Nawaz
+4,,,Fri Aug 28 16:24:17 -0700 2020,The Love Poems of Rumi,4.28,3666,1998,Rumi
+3,,,Fri Aug 28 12:55:32 -0700 2020,Who Moved My Cheese?,3.85,435891,2002,Spencer Johnson
+4,Fri Aug 28 10:10:30 -0700 2020,Sat Aug 29 02:42:38 -0700 2020,Fri Aug 28 10:10:30 -0700 2020,The Black Swan: The Impact of the Highly Improbable,3.95,103490,2007,Nassim Nicholas Taleb
+4,,,Wed Aug 26 01:50:47 -0700 2020,And Then There Were None,4.28,1147074,2004,Agatha Christie
+4,Mon Aug 31 00:00:00 -0700 2020,Wed Sep 23 01:14:46 -0700 2020,Wed Aug 26 01:29:53 -0700 2020,The Tipping Point: How Little Things Can Make a Big Difference,3.99,774736,2002,Malcolm Gladwell
+5,,,Tue Aug 25 11:36:16 -0700 2020,Outliers: The Story of Success,4.19,706559,2008,Malcolm Gladwell
+4,,,Tue Aug 25 10:04:43 -0700 2020,Influence: The Psychology of Persuasion,4.21,135738,2006,Robert B. Cialdini
+3,Thu Sep 17 00:00:00 -0700 2020,Fri Jun 04 00:00:00 -0700 2021,Tue Aug 11 04:03:36 -0700 2020,Me Talk Pretty One Day,4.00,672242,2001,David Sedaris
+4,Fri Jul 31 11:48:18 -0700 2020,Sun Aug 02 12:36:44 -0700 2020,Fri Jul 31 11:48:17 -0700 2020,Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics,4.20,73652,2015,Tim  Marshall
+4,Tue Jul 28 00:00:00 -0700 2020,Sat Sep 19 02:59:18 -0700 2020,Tue Jul 28 22:07:54 -0700 2020,Interpreter of Maladies,4.17,180753,2000,Jhumpa Lahiri
+5,Mon Jul 27 02:03:10 -0700 2020,Tue Jul 28 21:56:41 -0700 2020,Mon Jul 27 02:03:10 -0700 2020,Talking to Strangers: What We Should Know About the People We Don’t Know,4.02,249979,2019,Malcolm Gladwell
+3,Mon Jul 20 07:53:33 -0700 2020,Sat Jul 25 05:16:04 -0700 2020,Mon Jul 20 07:53:33 -0700 2020,A Long Petal of the Sea,4.05,79757,,Isabel Allende
+3,Mon Jun 29 04:17:10 -0700 2020,Mon Mar 08 02:19:44 -0800 2021,Mon Jun 29 04:17:10 -0700 2020,"The Wisdom of Psychopaths: What Saints, Spies, and Serial Killers Can Teach Us About Success",3.75,11406,2012,Kevin Dutton
+3,Mon Jun 29 00:00:00 -0700 2020,Thu Jul 02 04:14:10 -0700 2020,Mon Jun 29 04:15:16 -0700 2020,"Memory Man (Amos Decker, #1)",4.10,125517,2015,David Baldacci
+4,Fri Jun 26 00:00:00 -0700 2020,Sun Dec 27 08:51:13 -0800 2020,Fri Jun 26 06:42:32 -0700 2020,"Throne of Glass (Throne of Glass, #1)",4.19,922710,2012,Sarah J. Maas
+4,,,Wed May 06 23:08:30 -0700 2020,Stillness Is the Key,4.22,25925,2019,Ryan Holiday
+3,,,Mon May 04 23:48:10 -0700 2020,"27 Essential Principles of Story: Master the Secrets of Great Storytelling, from Shakespeare to South Park",4.28,165,,Daniel Joshua Rubin
+4,Mon May 04 23:49:00 -0700 2020,Tue May 05 04:36:52 -0700 2020,Mon May 04 02:04:34 -0700 2020,Think Like a Spy,3.32,157,2020,LaRae Qua
+4,,,Sun May 03 07:37:26 -0700 2020,"Scythe (Arc of a Scythe, #1)",4.33,233415,2016,Neal Shusterman
+4,Sun Oct 11 00:48:31 -0700 2020,Sun Oct 11 00:49:04 -0700 2020,Sun May 03 07:36:20 -0700 2020,"Thunderhead (Arc of a Scythe, #2)",4.42,131589,2018,Neal Shusterman
+3,,,Thu Apr 30 21:41:24 -0700 2020,"The Languages of Leadership: How to use your words, actions and behaviours to influence your team, peers and boss",3.43,37,2022,Wendy Born
+4,,,Thu Apr 30 21:38:52 -0700 2020,Make Your Bed: Little Things That Can Change Your Life...And Maybe the World,4.00,106693,2017,William H. McRaven
+3,,,Thu Apr 30 21:37:44 -0700 2020,Farsighted: How We Make the Decisions That Matter the Most,3.55,1735,2018,Steven Johnson
+3,,,Thu Apr 30 21:37:11 -0700 2020,"The Miracle Equation: The Two Decisions That Move Your Biggest Goals from Possible, to Probable, to Inevitable",4.16,1905,2019,Hal Elrod
+3,,,Thu Apr 30 21:35:42 -0700 2020,Tell Me More: Stories about the 12 Hardest Things I'm Learning to Say,4.18,18296,2018,Kelly Corrigan
+3,,,Thu Apr 30 21:34:03 -0700 2020,It's All in Your Head,4.10,2755,2019,Russ
+3,,,Sat Apr 11 08:20:04 -0700 2020,Slavery and Islam,4.17,209,,Jonathan A.C. Brown
+4,,,Sat Apr 11 08:14:16 -0700 2020,The Little Book of Hygge: The Danish Way to Live Well,3.76,91619,2016,Meik Wiking
+4,,,Sat Apr 11 08:11:13 -0700 2020,"The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire",4.18,11564,2019,William Dalrymple
+4,,,Sat Apr 11 08:00:22 -0700 2020,Alone with the Stars,3.27,2856,2020,David R. Gillham
+4,Sun Jun 21 03:05:02 -0700 2020,Fri Jun 26 06:41:40 -0700 2020,Wed Apr 08 19:30:55 -0700 2020,The Silent Patient,4.17,1276327,2019,Alex Michaelides
+4,,,Thu Apr 02 05:04:41 -0700 2020,"The Storytelling Edge: How to Transform Your Business, Stop Screaming Into the Void, and Make People Love You",3.49,289,2018,Shane Snow
+4,,,Mon Mar 16 09:28:00 -0700 2020,21 Lessons for the 21st Century,4.18,137505,2018,Yuval Noah Harari
+4,,,Wed Mar 11 23:19:43 -0700 2020,The Vegetarian,3.59,133385,2016,Han Kang
+4,,,Mon Mar 02 12:29:24 -0800 2020,Eleven Minutes,3.71,166846,2003,Paulo Coelho
+4,Sun Feb 02 00:00:00 -0800 2020,Wed May 20 05:38:45 -0700 2020,Sun Feb 02 20:42:20 -0800 2020,When We Were Vikings,3.85,11771,2020,Andrew David MacDonald
+3,Sat Feb 01 11:14:20 -0800 2020,Thu Feb 06 06:36:11 -0800 2020,Sat Feb 01 11:14:20 -0800 2020,Tyed,3.93,16173,2015,L.J. Shen
+4,Tue Jan 28 20:55:46 -0800 2020,Tue Jan 28 20:56:00 -0800 2020,Tue Jan 28 20:55:46 -0800 2020,"If I Only Knew (Second Time Around, #4)",4.16,6444,2019,Corinne Michaels
+4,,,Mon Jan 27 09:14:48 -0800 2020,The Witches Are Coming,4.14,22615,2019,Lindy West
+4,,,Thu Jan 23 02:26:08 -0800 2020,Archer's Voice,4.32,207164,2016,Mia Sheridan
+3,,,Mon Jan 20 01:25:39 -0800 2020,"Transfer (The Retrieval Duet, #2)",4.20,6189,2016,Aly Martinez
+4,Fri Jan 17 10:42:56 -0800 2020,Wed Jan 22 04:28:52 -0800 2020,Fri Jan 17 10:42:56 -0800 2020,"Get a Life, Chloe Brown (The Brown Sisters, #1)",3.84,143565,2019,Talia Hibbert
+3,Thu Jan 16 02:32:17 -0800 2020,Thu Jan 30 09:12:06 -0800 2020,Thu Jan 16 02:32:17 -0800 2020,Call Me God: The Untold Story of the DC Sniper Investigation,4.30,2344,,Jim Clemente
+3,Thu Jan 16 02:23:40 -0800 2020,Fri Jan 17 05:38:25 -0800 2020,Thu Jan 16 02:23:40 -0800 2020,"No Self, No Problem: How Neuropsychology Is Catching Up to Buddhism",4.26,2246,2019,Chris Niebauer
+4,,,Thu Jan 16 00:34:49 -0800 2020,We Are All Weird - The Rise of Tribes and the End of Normal,3.55,4237,2015,Seth Godin
+4,,,Thu Jan 16 00:32:33 -0800 2020,Super Human: The Bulletproof Plan to Age Backward and Maybe Even Live Forever,3.87,1819,2019,Dave Asprey
+3,Mon Jan 13 08:00:14 -0800 2020,Mon Jan 13 08:01:27 -0800 2020,Mon Jan 13 08:00:10 -0800 2020,"The AI Economy: Work, Wealth and Welfare in the Robot Age",3.60,102,,Roger Bootle
+3,Mon Mar 16 19:38:29 -0700 2020,Sat Mar 21 03:39:25 -0700 2020,Thu Jan 09 09:44:26 -0800 2020,Eight Perfect Murders,3.64,60193,,Peter  Swanson
+3,,,Mon Jan 06 05:18:49 -0800 2020,The Rebel King (All the King's Men #2),4.31,9380,,Kennedy Ryan
+3,,,Fri Jan 03 09:33:49 -0800 2020,"All the Rage (King, #4.5)",4.33,10488,2016,T.M. Frazier
+3,,,Sun Dec 29 01:22:09 -0800 2019,Endworld: Lord of Ends,3.75,136,,Sam Ryder
+4,,,Fri Dec 27 11:20:49 -0800 2019,"Getting Played (Getting Some, #2)",4.12,8736,2019,Emma Chase
+3,,,Mon Dec 23 12:40:09 -0800 2019,"Rivalry (Slay Quartet, #1)",4.10,5177,,Laurelin Paige
+2,Sun Jan 12 20:52:29 -0800 2020,Mon Jan 13 07:36:58 -0800 2020,Mon Dec 23 01:19:43 -0800 2019,"Bully (Fall Away, #1)",3.93,165855,2014,Penelope Douglas
+5,Wed Dec 18 11:32:35 -0800 2019,Wed Dec 18 23:04:02 -0800 2019,Wed Dec 18 11:32:35 -0800 2019,"Pretty Reckless (All Saints High, #1)",4.11,58452,2019,L.J. Shen
+4,Sun Dec 15 23:53:43 -0800 2019,Mon Dec 16 01:00:12 -0800 2019,Sun Dec 15 23:53:43 -0800 2019,"Retrieval (The Retrieval Duet, #1)",4.27,8562,2016,Aly Martinez
+3,Fri Dec 13 00:00:00 -0800 2019,Tue Feb 25 00:43:48 -0800 2020,Fri Dec 13 08:02:30 -0800 2019,Troll Hunting: Inside the World of Online Hate and its Human Fallout,3.87,715,2019,Ginger Gorman
+4,,,Wed Dec 11 09:48:38 -0800 2019,Five Feet Apart,4.20,179505,2018,Rachael Lippincott
+2,Fri Dec 06 23:51:12 -0800 2019,Fri Jan 31 09:27:44 -0800 2020,Fri Dec 06 23:51:11 -0800 2019,Other Words for Home,4.45,25814,2019,Jasmine Warga
+4,Mon Jan 10 00:00:00 -0800 2022,Thu Jan 20 10:18:48 -0800 2022,Wed Dec 04 10:18:19 -0800 2019,Dark Matter,4.13,370956,2016,Blake Crouch
+4,Thu Dec 12 21:18:09 -0800 2019,Fri Dec 13 07:53:15 -0800 2019,Wed Dec 04 08:28:07 -0800 2019,Heidi's Guide to Four Letter Words,3.93,7409,,Tara Sivec
+3,Mon Dec 02 07:59:34 -0800 2019,Mon Dec 02 22:50:24 -0800 2019,Mon Dec 02 07:59:34 -0800 2019,"Remedial Rocket Science (Chemistry Lessons, #1)",3.63,7101,2017,Susannah Nix
+4,Sun Dec 01 03:11:03 -0800 2019,Mon Jan 06 05:20:24 -0800 2020,Sun Dec 01 03:11:02 -0800 2019,The Kingmaker (All the King's Men #1),4.13,13188,2019,Kennedy Ryan
+5,Fri Nov 29 09:50:08 -0800 2019,Sat Nov 30 10:11:42 -0800 2019,Fri Nov 29 09:50:08 -0800 2019,"Love Hacked (Knitting in the City, #3)",4.12,24750,2014,Penny Reid
+4,,,Thu Nov 28 07:20:11 -0800 2019,"Lucky Suit (The Guys Who Got Away, #6)",3.46,9870,2019,Lauren Blakely
+4,Tue Nov 26 07:57:27 -0800 2019,,Tue Nov 26 07:57:27 -0800 2019,The Hating Game,3.97,561765,2016,Sally  Thorne
+3,,,Tue Nov 26 07:45:46 -0800 2019,"Captive in the Dark (The Dark Duet, #1)",3.96,70188,,C.J. Roberts
+5,Sun Nov 24 04:17:19 -0800 2019,Sun Nov 24 11:13:24 -0800 2019,Sun Nov 24 04:17:19 -0800 2019,Leo,4.00,39067,2013,Mia Sheridan
+4,Sat Nov 23 09:16:19 -0800 2019,Sun Nov 24 00:02:55 -0800 2019,Sat Nov 23 09:16:19 -0800 2019,Brant’s Return,4.06,5096,2019,Mia Sheridan
+4,Sun Dec 01 10:47:24 -0800 2019,Fri Dec 06 10:51:41 -0800 2019,Sat Nov 23 01:47:12 -0800 2019,"Easy Magic (Boudreaux, #5)",4.24,6331,2017,Kristen Proby
+3,,,Sat Nov 23 01:45:46 -0800 2019,Body Of Proof,3.43,3312,,Darrell Brown
+4,,,Fri Nov 22 13:33:11 -0800 2019,"Easy Nights (Boudreaux, #6)",4.30,5735,2017,Kristen Proby
+4,,,Fri Nov 22 13:33:05 -0800 2019,"Easy Charm (Boudreaux, #2)",4.23,11110,2015,Kristen Proby
+0,Fri Mar 26 02:11:25 -0700 2021,Sat Apr 10 15:33:38 -0700 2021,Wed Nov 20 05:36:05 -0800 2019,Daisy Jones & The Six,4.24,791404,2019,Taylor Jenkins Reid
+3,Tue Nov 19 00:00:00 -0800 2019,Mon Jun 08 02:20:11 -0700 2020,Tue Nov 19 03:40:02 -0800 2019,Milk and Honey,4.01,587499,2014,Rupi Kaur
+5,Sun Nov 17 08:38:46 -0800 2019,Mon Nov 18 02:49:15 -0800 2019,Sun Nov 17 08:38:46 -0800 2019,"The Bride Test (The Kiss Quotient, #2)",3.86,135625,2019,Helen Hoang
+3,Thu Oct 31 13:01:41 -0700 2019,Tue Nov 05 12:11:27 -0800 2019,Thu Oct 31 13:01:40 -0700 2019,A Different Blue,4.22,32418,2016,Amy Harmon
+4,Wed Oct 23 08:03:24 -0700 2019,Fri Oct 25 10:16:36 -0700 2019,Wed Oct 23 08:03:23 -0700 2019,"Easy Love (Boudreaux, #1)",4.10,17636,2015,Kristen Proby
+4,,,Mon Oct 21 02:53:25 -0700 2019,"Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries",4.02,7298,2019,Safi Bahcall
+3,Sun Oct 20 01:07:12 -0700 2019,Mon Oct 21 01:30:44 -0700 2019,Sun Oct 20 01:07:12 -0700 2019,"Level Up (Fandom Hearts, #1)",3.75,2151,2016,Cathy Yardley
+3,,,Thu Oct 10 05:56:20 -0700 2019,"We Are The Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory",3.90,840,2018,Christine Lagorio-Chafkin
+3,,,Thu Oct 10 05:54:40 -0700 2019,The Heartbeat of Wounded Knee: Native America from 1890 to the Present,4.22,5002,2019,David Treuer
+5,Sun Oct 06 04:20:42 -0700 2019,Thu Oct 10 05:52:05 -0700 2019,Sun Oct 06 04:20:42 -0700 2019,Carmilla,3.83,76982,2000,J. Sheridan Le Fanu
+3,Fri Oct 04 10:13:18 -0700 2019,Sun Oct 06 04:19:13 -0700 2019,Fri Oct 04 10:13:09 -0700 2019,"The Sisters (Cormac Reilly, #0.5)",3.61,9048,,Dervla McTiernan
+3,Mon Aug 02 00:00:00 -0700 2021,Sat Oct 09 10:14:14 -0700 2021,Thu Aug 15 10:32:52 -0700 2019,Station Eleven,4.07,436491,2014,Emily St. John Mandel
+3,Thu Aug 15 01:10:05 -0700 2019,Thu Aug 15 07:29:43 -0700 2019,Thu Aug 15 01:10:05 -0700 2019,Islam and the Future of Tolerance: A Dialogue,4.05,6873,2015,Sam Harris
+2,Mon Aug 12 10:52:36 -0700 2019,Fri Sep 27 06:53:54 -0700 2019,Mon Aug 12 10:52:35 -0700 2019,"A Study in Charlotte (Charlotte Holmes, #1)",3.77,55324,2016,Brittany Cavallaro
+3,Mon Jul 29 00:00:00 -0700 2019,Wed May 20 05:41:36 -0700 2020,Mon Jul 29 23:08:41 -0700 2019,Furiously Happy: A Funny Book About Horrible Things,3.89,153149,2015,Jenny  Lawson
+3,,,Sat Jun 01 00:08:08 -0700 2019,The Dip: A Little Book That Teaches You When to Quit,3.80,32639,2007,Seth Godin
+4,Sun Sep 08 12:03:31 -0700 2019,Mon Aug 31 06:28:28 -0700 2020,Sun May 12 09:38:42 -0700 2019,Shoe Dog: A Memoir by the Creator of Nike,4.47,237457,2016,Phil Knight
+4,,,Wed Apr 24 02:17:34 -0700 2019,The Drama of the Gifted Child: The Search for the True Self,4.06,23210,2008,Alice   Miller
+3,,,Wed Apr 10 01:49:59 -0700 2019,"Discontent and Its Civilizations: Dispatches from Lahore, New York, and London",3.85,1903,2015,Mohsin Hamid
+4,Wed Mar 27 22:50:11 -0700 2019,Wed Mar 27 22:50:50 -0700 2019,Wed Mar 27 22:47:06 -0700 2019,The Gifts of Imperfection,4.24,162052,2010,Brené Brown
+3,Wed Mar 27 00:00:00 -0700 2019,Sun Dec 27 08:53:53 -0800 2020,Wed Mar 27 21:39:20 -0700 2019,I Was Told to Come Alone: My Journey Behind the Lines of Jihad,4.43,4254,2017,Souad Mekhennet
+3,Wed Mar 27 21:38:26 -0700 2019,Mon Mar 08 02:19:19 -0800 2021,Wed Mar 27 21:38:26 -0700 2019,12 Rules for Life: An Antidote to Chaos,3.93,176062,2018,Jordan B. Peterson
+5,Wed Mar 27 21:35:23 -0700 2019,Mon Nov 11 08:08:08 -0800 2019,Wed Mar 27 21:35:22 -0700 2019,Verity,4.40,1395654,,Colleen Hoover
+3,Wed Mar 27 11:29:42 -0700 2019,Wed Mar 27 22:43:38 -0700 2019,Wed Mar 27 11:29:41 -0700 2019,"The 17th Suspect (Women's Murder Club, #17)",3.98,30818,2018,James Patterson
+3,Sun Mar 24 21:13:27 -0700 2019,Wed Mar 27 21:36:11 -0700 2019,Sun Mar 24 21:13:27 -0700 2019,Confessions of an Economic Hit Man,3.86,35454,,John Perkins
+3,Mon Jul 13 00:00:00 -0700 2020,Sat Feb 27 12:02:12 -0800 2021,Wed Nov 07 05:20:18 -0800 2018,The Ocean at the End of the Lane,4.01,562264,2013,Neil Gaiman
+4,Tue Aug 27 01:00:14 -0700 2019,Tue Aug 27 06:00:06 -0700 2019,Wed Nov 07 05:20:13 -0800 2018,Little Fires Everywhere,4.09,1019607,2017,Celeste Ng
+3,,,Wed Sep 26 21:33:06 -0700 2018,The Da Vinci Curse: Life Design for People with Too Many Interests and Talents,3.69,123,2012,Leonardo Lospennato
+3,,,Sat Sep 22 05:10:51 -0700 2018,How to Win Friends and Influence People,4.21,847655,1998,Dale Carnegie
+3,,,Sat Sep 22 05:08:11 -0700 2018,Us vs. Them: The Failure of Globalism,3.53,1354,,Ian Bremmer
+3,,,Sat Sep 22 05:07:15 -0700 2018,How to Stop Worrying and Start Living,4.15,97751,2004,Dale Carnegie
+3,,,Sat Sep 22 05:06:45 -0700 2018,The Power of Your Subconscious Mind,4.09,65269,,Joseph Murphy
+3,,,Sat Sep 22 05:05:40 -0700 2018,Made to Stick: Why Some Ideas Survive and Others Die,3.97,87614,2007,Chip Heath
+1,,,Thu Sep 06 03:26:38 -0700 2018,A New Earth: Awakening to Your Life's Purpose,4.13,185350,2006,Eckhart Tolle
+3,,,Tue Aug 07 07:36:15 -0700 2018,How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships,3.73,27302,2003,Leil Lowndes
+3,,,Tue Aug 07 07:33:22 -0700 2018,"Write It Down, Make It Happen: Knowing What You Want And Getting It",4.05,3084,2001,Henriette Anne Klauser
+2,,,Tue Aug 07 07:32:10 -0700 2018,"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",4.21,345099,2015,Ashlee Vance
+4,,,Tue Aug 07 07:27:06 -0700 2018,Negotiating the Nonnegotiable: How to Resolve Your Most Emotionally Charged Conflicts,3.92,578,2016,Daniel Shapiro
+4,,,Tue Aug 07 07:24:03 -0700 2018,Antifragile: Things That Gain from Disorder,4.10,46523,2012,Nassim Nicholas Taleb
+4,,,Tue Aug 07 07:22:43 -0700 2018,Too Fast to Think: How our 24/7 Hyper-connected Work Culture is Destroying our Creativity,3.41,167,2016,Chris Lewis
+3,,,Tue Aug 07 07:21:16 -0700 2018,"The Worry-Free Mind: Train Your Brain, Calm the Stress Spin Cycle, and Discover a Happier, More Productive You",3.57,192,,Carol Kershaw
+4,,,Tue Aug 07 07:19:03 -0700 2018,The Sun Does Shine: How I Found Life and Freedom on Death Row,4.64,47794,2018,Anthony Ray Hinton
+3,,,Tue Aug 07 07:14:02 -0700 2018,Pivot: The Only Move That Matters is Your Next One,3.76,1643,2016,Jenny Blake
+0,,,Tue Aug 07 07:12:22 -0700 2018,Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets,4.08,59113,2005,Nassim Nicholas Taleb
+3,,,Tue Aug 07 07:11:24 -0700 2018,Unplug: A Simple Guide to Meditation for Busy Skeptics and Modern Soul Seekers,3.63,1341,2017,Suze Yalof Schwartz
+3,Tue May 29 08:29:13 -0700 2018,Tue Aug 07 07:56:00 -0700 2018,Tue May 29 08:29:12 -0700 2018,My Morning Routine: How Successful People Start Every Day Inspired,3.53,2828,2018,Benjamin Spall
+3,,,Tue May 29 08:27:30 -0700 2018,The Culture Code: The Secrets of Highly Successful Groups,4.28,23520,2018,Daniel Coyle
+4,,,Tue May 29 08:26:18 -0700 2018,"Streaming, Sharing, Stealing: Big Data and the Future of Entertainment",3.98,558,2016,Michael D.       Smith
+0,,,Fri May 25 00:34:27 -0700 2018,"A Higher Loyalty: Truth, Lies, and Leadership",4.10,46743,2018,James Comey
+3,,,Fri May 25 00:34:01 -0700 2018,Crush It!: Why Now Is the Time to Cash In on Your Passion,3.87,31841,2009,Gary Vaynerchuk
+3,,,Fri May 25 00:33:13 -0700 2018,What I Know for Sure,4.14,39156,2014,Oprah Winfrey
+4,,,Fri May 25 00:32:38 -0700 2018,Sapiens: A Brief History of Humankind,4.38,842149,2015,Yuval Noah Harari
+0,,,Fri May 25 00:31:31 -0700 2018,"Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue",3.98,5937,,Ryan Holiday
+0,,,Fri May 25 00:29:37 -0700 2018,How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life,4.05,17987,2013,Scott Adams
+3,,,Fri May 25 00:29:06 -0700 2018,Who Can You Trust?: How Technology is Rewriting the Rules of Human Relationships,4.14,755,2017,Rachel Botsman
+3,,,Fri May 25 00:27:40 -0700 2018,Life 3.0: Being Human in the Age of Artificial Intelligence,4.03,20244,2017,Max  Tegmark
+3,,,Fri May 25 00:27:09 -0700 2018,Ghost in the Wires: My Adventures as the World's Most Wanted Hacker,3.94,23867,2011,Kevin D. Mitnick
+0,,,Fri May 25 00:26:17 -0700 2018,Emotional Intelligence: Why It Can Matter More Than IQ,4.03,106708,2006,Daniel Goleman
+0,,,Fri May 25 00:23:24 -0700 2018,"The 5 Second Rule: Transform Your Life, Work, and Confidence with Everyday Courage",3.87,30599,,Mel Robbins
+0,,,Fri May 25 00:22:55 -0700 2018,The Blank Slate: The Modern Denial of Human Nature,4.09,23593,2003,Steven Pinker
+4,,,Fri May 25 00:21:37 -0700 2018,When: The Scientific Secrets of Perfect Timing,3.79,27678,2018,Daniel H. Pink
+4,,,Fri May 25 00:18:55 -0700 2018,Leonardo da Vinci,4.19,91551,2017,Walter Isaacson
+3,,,Fri May 25 00:18:28 -0700 2018,The Communist Manifesto,3.63,143330,2002,Karl Marx
+4,,,Fri May 25 00:17:42 -0700 2018,"Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are",3.91,37719,2017,Seth Stephens-Davidowitz
+3,,,Fri May 25 00:17:03 -0700 2018,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",3.92,98604,2014,Dan   Harris
+3,,,Fri May 25 00:16:16 -0700 2018,"The Airbnb Story: How Three Ordinary Guys Disrupted an Industry, Made Billions . . . and Created Plenty of Controversy",3.86,2740,2017,Leigh Gallagher
+2,,,Fri May 25 00:15:20 -0700 2018,ISIS: Inside the Army of Terror,3.68,2534,2015,Michael Weiss
+0,,,Fri May 25 00:14:18 -0700 2018,Leaders Eat Last,4.11,43704,2014,Simon Sinek
+3,,,Fri May 25 00:13:31 -0700 2018,Curious: The Desire to Know and Why Your Future Depends On It,4.02,2468,2014,Ian Leslie
+3,,,Fri May 25 00:11:59 -0700 2018,"Titan: The Life of John D. Rockefeller, Sr.",4.15,27910,2004,Ron Chernow
+3,Fri May 25 00:11:14 -0700 2018,Tue Aug 07 07:55:53 -0700 2018,Fri May 25 00:11:13 -0700 2018,The Conservative Mind: From Burke to Eliot,4.14,1546,2001,Russell Kirk
+0,,,Fri May 25 00:10:39 -0700 2018,"Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal",4.03,17690,2013,Nick Bilton
+3,,,Fri May 25 00:10:10 -0700 2018,Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think,4.36,162481,2018,Hans Rosling
