@@ -18,8 +18,7 @@ info("ITGenius")
 
 # สร้างฟังก์ชันแบบมีการรับค่าและมี return ค่าออกไปใช้งาน
 def area(width, height):
-    result = width * height
-    return result
+    return width * height
 
 
 # เรียกใช้งานฟังก์ชัน area
